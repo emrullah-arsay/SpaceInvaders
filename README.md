@@ -1,1 +1,1 @@
-# Space Invaders oyununu ile isgili dosyalari içerir. Export dosyalaridir.img ve sound dosyalari yoktur.
+# Space Invaders oyununu ile ilgili dosyalari içerir. Export dosyalaridir.img ve sound dosyalari yoktur.
